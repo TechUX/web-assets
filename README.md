@@ -1,5 +1,5 @@
 # web-assets
-Various Web Assets including 1K+ User Agent, 100+ Referers, 1K+ Proxies for **Web Scrapping**.
+Various Web Assets including 1K+ User Agent, 50+ Referers, 2.7K+ Proxies for **Web Scrapping**.
 
 Used on Various programming languages for various projects including **Web-Scrapping**
 ## User-Agent
