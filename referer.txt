@@ -25,3 +25,8 @@ https://www.java2s.com
 https://javascriptkit.com
 https://freecodecamp.org
 https://www.youtube.com
+https://en.m.wikipedia.org
+https://www.geeksforgeeks.org
+https://blogger.com
+https://flipkart.com
+https://pastebin.com
