@@ -30,3 +30,7 @@ https://www.geeksforgeeks.org
 https://blogger.com
 https://flipkart.com
 https://pastebin.com
+https://gist.github.com
+https://hastebin.com/
+Repl.it
+https://codepen.io/
