@@ -29,4 +29,6 @@ Thank you
 ## Credits
 User-Agent : [@pzb](https://gist.github.com/pzb/b4b6f57144aea7827ae4)
 
-Proxy list :
+Proxy list : [@TheSpeedX](https://github.com/TheSpeedX/PROXY-List/)
+
+Check [TheSpeedX's Proxy List](https://github.com/TheSpeedX/PROXY-List/) for Updated List
