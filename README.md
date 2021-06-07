@@ -6,9 +6,12 @@ Used on Various programming languages for various projects including **Web-Scrap
 1200+ Unique user agent string added and updated
  - Mozilla
    - Android
+   - iPhone
+   - iPad
    - Window
    - Macintosh
    - Linux
+   - others
  - Chrome
  - Opera
  - Internet Explorer
