@@ -27,5 +27,6 @@ Please add other User agent and referer strings to make the collection large.
 Thank you
 
 ## Credits
-User-Agent :
+User-Agent : [@pzb](https://gist.github.com/pzb/b4b6f57144aea7827ae4)
+
 Proxy list :
