@@ -5,13 +5,13 @@ Used on Various programming languages for various projects including **Web-Scrap
 ## User-Agent
 1200+ Unique user agent string added and updated
  - Mozilla
-   - Android
+<!--   - Android
    - iPhone
    - iPad
    - Window
    - Macintosh
    - Linux
-   - others
+   - others -->
  - Chrome
  - Opera
  - Internet Explorer
